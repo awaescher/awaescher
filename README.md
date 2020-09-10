@@ -9,13 +9,10 @@ A modern alternative to the Microsoft Assembly Binding Log Viewer" alt="Fusion++
 ## Libraries
 <a title="FluentDragDrop
 Fluent, declarative and visually appealing Drag&Drop for WinForms" alt="FluentDragDrop" href="https://github.com/awaescher/FluentDragDrop"><img src="https://github.com/awaescher/FluentDragDrop/blob/master/doc/FluentDragDrop.png" width="48"/></a> <a title="Vibrancy.Forms
-Blur and Vibrancy effects for iOS and iPadOS with Xamarin.Forms" alt="Vibrancy.Forms" href="https://github.com/awaescher/Vibrancy.Forms"><img src="https://github.com/awaescher/Vibrancy.Forms/blob/master/docs/Vibrancy.Forms.png" width="48"/></a> <a title="quic#
+Blur and Vibrancy effects for iOS and iPadOS with Xamarin.Forms" alt="Vibrancy.Forms" href="https://github.com/awaescher/Vibrancy.Forms"><img src="https://github.com/awaescher/Vibrancy.Forms/blob/master/docs/Vibrancy.Forms.png" width="48"/></a> <a title="ObviousAwait
+Expressive aliases to ConfigureAwait(true) and ConfigureAwait(false)" alt="ObviousAwait" href="https://github.com/awaescher/ObviousAwait"><img src="https://github.com/awaescher/ObviousAwait/blob/master/docs/ObviousAwait.png" width="48"/></a> <a title="quic#
 A simple scripting app using an abstracted C# scripting engine with Roslyn, ScriptCs or CodeDom" alt="quic#" href="https://github.com/awaescher/quicsharp"><img src="https://github.com/awaescher/quicsharp/blob/master/app128.png" width="48"/></a> <a title="WinFormsCT
 The one and only computer tomographer for Windows Forms user interfaces" alt="WinFormsCT" href="https://github.com/awaescher/WinFormsCT"><img src="https://github.com/awaescher/WinFormsCT/blob/master/_img/AppIcon256.png" width="48"/></a>
-
-## Experiments
-<a title="ObviousAwait
-Expressive aliases to ConfigureAwait(true) and ConfigureAwait(false)" alt="ObviousAwait" href="https://github.com/awaescher/ObviousAwait"><img src="https://github.com/awaescher/ObviousAwait/blob/master/docs/ObviousAwait.png" width="48"/></a>
 
 ## Tools
 <a title="PathEd
