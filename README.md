@@ -6,8 +6,6 @@ I try my best to build intuitive apps to keep complexity of everyday things away
 A zero-conf git repository hub for Windows and macOS" alt="RepoZ" href="https://github.com/awaescher/RepoZ"><img src="https://github.com/awaescher/RepoZ/blob/master/_res/Icon.png" width="48"/></a> <a title="Fusion++
 A modern alternative to the Microsoft Assembly Binding Log Viewer" alt="Fusion++" href="https://github.com/awaescher/Fusion"><img src="https://github.com/awaescher/Fusion/blob/master/_res/app256.png" width="48"/></a>
 
-https://github.com/awaescher/FluentTransitions
-
 ## Libraries
 <a title="FluentDragDrop
 Fluent, declarative and visually appealing Drag&Drop for WinForms" alt="FluentDragDrop" href="https://github.com/awaescher/FluentDragDrop"><img src="https://github.com/awaescher/FluentDragDrop/blob/master/doc/FluentDragDrop.png" width="48"/></a> <a title="FluentTransitions
