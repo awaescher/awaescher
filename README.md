@@ -1,6 +1,6 @@
 I try my best to build intuitive apps to keep complexity of everyday things away from you.
 
-![RepoZ](https://raw.githubusercontent.com/awaescher/RepoZ/master/_doc/Banner-round.png)
+[![RepoZ](https://raw.githubusercontent.com/awaescher/RepoZ/master/_doc/Banner-round.png)](https://github.com/awaescher/RepoZ)
 
 ## Apps
 <a title="RepoZ
