@@ -1,5 +1,6 @@
-#### Just a software guy in love with the .NET ecosystem
 I try my best to build intuitive apps to keep complexity of everyday things away from you.
+
+![RepoZ](https://raw.githubusercontent.com/awaescher/RepoZ/master/_doc/Banner.png)
 
 ## Apps
 <a title="RepoZ
