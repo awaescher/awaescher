@@ -8,11 +8,14 @@ A zero-conf git repository hub for Windows and macOS" alt="RepoZ" href="https://
 A modern alternative to the Microsoft Assembly Binding Log Viewer" alt="Fusion++" href="https://github.com/awaescher/Fusion"><img src="https://github.com/awaescher/Fusion/blob/master/_res/app256.png" width="48"/></a>
 
 ## Libraries
-<a title="FluentDragDrop
+
+<a title="OllamaSharp
+Ollama API bindings for .NET" alt="OllamaSharp" href="https://github.com/awaescher/OllamaSharp"><img src="https://github.com/awaescher/OllamaSharp/blob/main/Ollama.png" width="48"/><a title="FluentDragDrop
 The sexiest Drag&Drop for WinForms on this planet." alt="FluentDragDrop" href="https://github.com/awaescher/FluentDragDrop"><img src="https://github.com/awaescher/FluentDragDrop/blob/master/doc/FluentDragDrop.png" width="48"/><a title="FluentDragDrop.Effects
 Smooth UI effects to FluentDragDrop" alt="FluentDragDrop.Effects" href="https://github.com/awaescher/FluentDragDrop"><img src="https://github.com/awaescher/FluentDragDrop/blob/master/doc/FluentDragDrop.Effects.png" width="48"/></a> <a title="FluentTransitions
 Smooth UI animations & transitions for .NET" alt="FluentTransitions" href="https://github.com/awaescher/FluentTransitions"><img src="https://github.com/awaescher/FluentTransitions/blob/master/doc/FluentTransitions.png" width="48"/></a> <a title="Vibrancy.Forms
-Blur and Vibrancy effects for iOS and iPadOS with Xamarin.Forms" alt="Vibrancy.Forms" href="https://github.com/awaescher/Vibrancy.Forms"><img src="https://github.com/awaescher/Vibrancy.Forms/blob/master/docs/Vibrancy.Forms.png" width="48"/></a> <a title="Aloha.Barcodes
+Blur and Vibrancy effects for iOS and iPadOS with Xamarin.Forms" alt="Vibrancy.Forms" href="https://github.com/awaescher/Vibrancy.Forms"><img src="https://github.com/awaescher/Vibrancy.Forms/blob/master/docs/Vibrancy.Forms.png" width="48"/></a><a title="TinySystemInfo
+A very basic and highly opinionated system information library." alt="TinySystemInfo" href="https://github.com/awaescher/TinySystemInfo"><img src="https://github.com/awaescher/TinySystemInfo/blob/main/TinySystemInfo/Icon.png" width="48"/><a title="Aloha.Barcodes
 Barcode reading plugin for .NET MAUI and Xamarin.Forms" alt="Aloha.Barcodes" href="https://github.com/awaescher/Aloha.Barcodes"><img src="https://github.com/awaescher/Aloha.Barcodes/blob/main/Alohacode.png" width="48"/></a> <a title="ObviousAwait
 Expressive aliases to ConfigureAwait(true) and ConfigureAwait(false)" alt="ObviousAwait" href="https://github.com/awaescher/ObviousAwait"><img src="https://github.com/awaescher/ObviousAwait/blob/master/docs/ObviousAwait.png" width="48"/></a> <a title="quic#
 A simple scripting app using an abstracted C# scripting engine with Roslyn, ScriptCs or CodeDom" alt="quic#" href="https://github.com/awaescher/quicsharp"><img src="https://github.com/awaescher/quicsharp/blob/master/app128.png" width="48"/></a> <a title="WinFormsCT
