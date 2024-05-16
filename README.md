@@ -4,8 +4,9 @@ I try my best to build intuitive apps to keep complexity of everyday things away
 
 ## Apps
 <a title="RepoZ
-A zero-conf git repository hub for Windows and macOS" alt="RepoZ" href="https://github.com/awaescher/RepoZ"><img src="https://github.com/awaescher/RepoZ/blob/master/_res/Icon.png" width="48"/></a> <a title="Fusion++
-A modern alternative to the Microsoft Assembly Binding Log Viewer" alt="Fusion++" href="https://github.com/awaescher/Fusion"><img src="https://github.com/awaescher/Fusion/blob/master/_res/app256.png" width="48"/></a>
+A zero-conf git repository hub for Windows and macOS" alt="RepoZ" href="https://github.com/awaescher/RepoZ"><img src="https://github.com/awaescher/RepoZ/blob/master/_res/Icon.png" width="48"/></a><a title="Fusion++
+A modern alternative to the Microsoft Assembly Binding Log Viewer" alt="Fusion++" href="https://github.com/awaescher/Fusion"><img src="https://github.com/awaescher/Fusion/blob/master/_res/app256.png" width="48"/></a><a title="Stage Manager
+Stage Manager for Microsoft Windows (feasibility study)" alt="Stage Manager" href="https://github.com/awaescher/StageManager"><img src="https://github.com/awaescher/StageManager/blob/main/media/StageManager.png" width="48"/></a>
 
 ## Libraries
 
