@@ -26,5 +26,3 @@ The one and only computer tomographer for Windows Forms user interfaces" alt="Wi
 <a title="PathEd
 A deployable tool to add or remove values from the Windows PATH variable" alt="PathEd" href="https://github.com/awaescher/PathEd"><img src="https://github.com/awaescher/PathEd/blob/master/PathEd/app.ico" width="48"/></a> <a title="SendKeys
 A deployable tool to send key input per command line." alt="SendKeys" href="https://github.com/awaescher/SendKeys"><img src="https://github.com/awaescher/SendKeys/blob/master/SendKeys/keyboard_key_right.ico" width="48"/></a>
-
-PRs and ideas are very welcome, ping me at any time.
